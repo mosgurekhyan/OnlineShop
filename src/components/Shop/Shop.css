@@ -1,0 +1,18 @@
+.div21 {
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/vr-virtual-reality-equipment-on-the-table-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+    height: 530px !important;
+    filter: brightness(70%);
+}
+
+.goodsDiv {
+    width: 100%;
+    padding: 80px 5%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

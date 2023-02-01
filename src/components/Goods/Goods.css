@@ -1,0 +1,41 @@
+.data6 {
+    width: 350px;
+    height: 500px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    padding: 8px;
+    background-color: #282828;
+}
+
+.image3 {
+    width: 335px;
+    height: 300px;
+    background-size: cover;
+}
+
+.name3 {
+    color: #0DE8E4;
+    margin: 10px 0;
+}
+
+.description3 {
+    color: antiquewhite;
+}
+
+.price3 {
+    color: crimson;
+    margin: 15px 0;
+}
+
+.category {
+    color: #0DE8E4;
+    font-size: 18px;
+    text-transform: capitalize; 
+}
+
+.cat {
+    width: 334px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

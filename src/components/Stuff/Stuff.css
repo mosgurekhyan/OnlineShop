@@ -1,0 +1,28 @@
+.data2 {
+    padding: 10px;
+    border-radius: 3px;
+    background-color: rgb(14, 39, 39);
+    width: 270px;
+    height: 350px;
+    text-align: center;
+}
+
+.worker {
+    width: 250px;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+}
+
+.h4-3 {
+    font-size: 19px;
+    color: white;
+    font-weight: lighter;
+    margin: 8px 0;
+}
+
+.h6-2 {
+    color: white;
+    font-size: 17px;
+    font-weight: lighter;
+}

@@ -1,0 +1,139 @@
+.div11 {
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/african-girl-adjusting-the-vr-headset-.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px -100px;
+    background-size: cover;
+    width: 100%;
+    height: 380px !important;
+    filter: brightness(50%);
+    z-index: 20;
+}
+
+.h {
+    color: #1a3b55;
+    padding: 200px 5%;
+    font-size: 75px;
+    font-weight: 900;
+}
+
+
+.div44 {
+    width: 515px;
+    height: 400px;
+    margin-top: 170px;
+}
+
+.img33 {
+    width: 620px;
+    height: 520px;
+    margin-top: 110px;
+}
+
+.div33 {
+    width: 100%;
+    height: 740px;
+    padding: 0 5%;
+    display: flex;
+    justify-content: space-between;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(180deg, #0B0F13 0%, #0B0F13F0 100%);
+}
+
+.div12 {
+    width: 100%;
+    height: 610px;
+    background-color: black;
+    padding: 0 5%;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+.div12-1 {
+    width: 570px;
+    height: 610px;
+    background-color: #282828;
+}
+
+.div12-11 {
+    width: 570px;
+    height: 375px;
+    background-position: center;
+    background-size: cover;
+    background-image: url('https://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/coworkers-in-vr-goggles-looking-at-monitor-with-data.jpg');
+}
+
+.div12-12 {
+    width: 570px;
+    height: 235px;
+    padding: 15px;
+}
+
+.h22 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #0DE8E4;
+}
+
+.p-6 {
+    font-size: 15px;
+    margin-top: 15px;
+    color: #DF4F58;
+}
+
+.p-7 {
+    font-size: 17px;
+    margin-top: 15px;
+    color: white;
+}
+
+.div12-2 {
+    width: 570px;
+    height: 610px;
+    padding: 5px 0;
+}
+
+.h55 {
+    color: #DF4F58;
+    font-size: 16px;
+}
+
+.h1-7 {
+    color: #0DE8E4;
+    font-size: 44px;
+    font-weight: 900;
+    margin: 15px 0;
+}
+
+.line2 {
+    width: 300px;
+    height: 1px;
+    background-color: #0DE8E4;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    width: 570px;
+    justify-content: space-between;
+}
+
+.pp {
+    font-size: 17px;
+    color: white;
+    margin-top: 15px;
+}
+
+.ddiv {
+    margin-top: 15px;
+    height: 410px;
+}
+
+.ddiv2 {
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}

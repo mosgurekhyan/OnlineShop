@@ -1,0 +1,304 @@
+.img2 {
+    width: 100%;
+    height: 850px;
+    filter: brightness(60%);
+}
+
+.div1 {
+    width: 100%;
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    margin-top: -550px;
+}
+
+
+.div2 {
+    width: 50%;
+    height: 360px;
+    text-align: center;
+    position: relative;
+    transition: 1s;
+}
+
+.h1-1 {
+    font-size: 75px;
+    font-weight: 900;
+    color: #0DE8E4;
+}
+
+.h6-1 {
+    font-size: 24px;
+    color: white;
+    padding: 0 40px;
+    margin-top: 10px;
+    margin-bottom: 29px;
+}
+
+.btn-1 {
+    padding: 11px 21px;
+    color: #0DE8E4;
+    font-size: 19px;
+    font-weight: 500;
+    border: 2px solid #0DE8E4;
+    background-color: transparent;
+    transition: .7s;
+    border-radius: 3px;
+}
+
+.btn-1:hover {
+    cursor: pointer;
+    background-color: #0DE8E4;
+    color: black;
+}
+
+.div3 {
+    width: 100%;
+    height: 910px;
+    padding: 0 5%;
+    display: flex;
+    justify-content: space-between;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: linear-gradient(180deg, #0B0F13 0%, #0B0F13F0 100%);
+}
+
+.img3 {
+    width: 620px;
+    height: 520px;
+    margin-top: 310px;
+}
+
+.div4 {
+    width: 515px;
+    height: 400px;
+    margin-top: 370px;
+}
+
+.h5-1 {
+    font-size: 17px;
+    color: #DF4F50;
+    margin-bottom: 18px;
+    font-weight: lighter;
+}
+
+.h1-2 {
+    color: #0DE8E4;
+    font-size: 58px;
+    font-weight: 900;
+}
+
+.line {
+    width: 100px;
+    margin: 13px 0;
+    height: 3px;
+    background-color: cornflowerblue ;
+}
+
+.p-1 {
+    font-size: 18px;
+    margin-bottom: 18px;
+    color: white;
+}
+
+
+.div5 {
+    width: 100%;
+    height: 370px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+    background-color: black;
+}
+
+.div6 {
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 5%;
+    background-color: black;
+}
+
+.div6-1 {
+    width: 560px;
+    height: 466px;
+}
+
+.div6-2 {
+    width: 560px;
+    height: 500px;
+    background-image: url('https://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/vr-developers.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.div6-3 {
+    margin: 18px 0;
+}
+
+.icon1 {
+    color: #0DE8E4;
+    margin-right: 8px;
+}
+
+b {
+    color: white;
+}
+
+.div6-4 {
+    width: 325px;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.d1 {
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+
+.d2 {
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 17px 0;
+}
+
+.div7 {
+    width: 100%;
+    height: 950px;
+    filter: brightness( 65% ) contrast( 100% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );
+    background-image: url('http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/abstract-matrix-cyber-environment-big-data.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.div7-1 {
+    width: 650px;
+    height: 350px;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.div7-2 {
+    width: 100%;
+    height: 480px;
+    padding: 0 5%;
+    margin-top: -540px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.div8 {
+    width: 100%;
+    height: 1280px;
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 5%;
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/man-playing-vr-video-game.jpg");
+}
+
+.div8-11 {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #1C344C 0%, #282828 100%);
+    opacity: 0.9;
+    width: 100%;
+    height: 1280px;
+    margin-top: -1280px;
+    z-index: 1;
+}
+
+.p-0 {
+    width: 90px;
+    height: 2px;
+    background-color: cadetblue;
+}
+
+.div8-1 {
+    text-align: center;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 140px;
+    z-index: 10;
+}
+
+.div8-2 {
+    width: 100%;
+    height: 920px;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.div9 {
+    padding: 90px 5%;
+    width: 100%;
+    height: 540px;
+    margin-top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* filter: sepia(10%);
+    filter: contrast(70%); */
+    background-image: url("https://imageio.forbes.com/specials-images/imageserve/63989462e99f5616dc98122c/Woman-Is-Using-Virtual-Reality-Viewer--Modern-Woman-Portrait-With-Trendy-Look-And/0x0.jpg?format=jpg&crop=2871,1615,x0,y299,safe&width=960");
+}
+
+.div9-1 {
+    width: 550px;
+    margin-top: 80px;
+}
+
+.h1-3 {
+    color: white;
+    font-size: 32px;
+    margin: 20px 0;
+    font-weight: 700;
+}
+
+.p-4 {
+    color: white;
+    font-size: 21px;
+    margin-bottom: 37px;
+}
+
+.div10 {
+    width: 100%;
+    height: 750px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: black;
+}
+
+.div10-1 {
+    width: 500px;
+    margin-top: 80px;
+    height: 180px;
+    text-align: center;
+}
+
+.div10-2 {
+    width: 100%;
+    height: 370px;
+    padding: 0 5%;
+    display: flex;
+    justify-content: space-between;
+}

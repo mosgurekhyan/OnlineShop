@@ -1,0 +1,29 @@
+.datta {
+    width: 300px;
+    height: 80px;
+    padding: 5px;
+    background-color: darkslategrey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: #0DE8E4 solid;
+}
+
+.basketImage {
+    width: 90px;
+    height: 65px;
+    background-size: cover;
+}
+
+.basketTitle {
+    font-size: 17px;
+    color: #0DE8E4;
+}
+
+.hh11 {
+    color: red;
+}
+
+.basketPrice {
+    color: red;
+}

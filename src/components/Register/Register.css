@@ -1,0 +1,18 @@
+.logg {
+    width: 72%;
+    height: 550px;
+    margin-top: -550px;
+    margin-left: 14%;
+    display: flex;
+    justify-content: center;
+    transition: 2s;
+}
+
+.logg1 {
+    width: 49.5%;
+    height: 530px;
+    padding: 35px;
+    text-align: center;
+    background-image: linear-gradient(135deg, #1C344C 0%, #282828 100%);
+    opacity: 0.8;
+}

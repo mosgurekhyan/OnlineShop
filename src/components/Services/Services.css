@@ -1,0 +1,103 @@
+.div111 {
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/it-team-testing-vr-in-office.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-position: 0px -100px;
+    height: 380px !important;
+    filter: brightness(70%);
+}
+
+.hh {
+    color: #0DE8E4;
+    padding: 200px 5%;
+    font-size: 75px;
+    font-weight: 900;
+}
+
+.services {
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/a-man-with-tattoos-on-arms-wearing-vr-glasses-.jpg");
+}
+
+.iicon {
+    width: 80px;
+    height: 80px;
+    color: #0DE8E4;
+    background-color: #1209026E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    text-decoration: none;
+}
+
+.iicon1 {
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.download {
+    width: 520px;
+    height: 400px;
+}
+
+.iconDiv {
+    width: 520px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hhh {
+    font-size: 50px;
+    font-weight: 900;
+    color: #0DE8E4;
+}
+
+.pp {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.h22 {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    margin-top: 30px;
+}
+
+.down {
+    height: 60px;
+    width: 374px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.down1 {
+    background-image: url('https://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/Play-Store.png');
+    background-position: center;
+    background-size: cover;
+    height: 60px;
+    width: 182px;
+    border-radius: 3px;
+}
+
+.down2 {
+    background-image: url('https://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/Apps-Store.png');
+    background-position: center;
+    background-size: cover;
+    height: 60px;
+    width: 182px;
+    border-radius: 3px;
+}
+

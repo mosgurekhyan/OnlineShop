@@ -1,0 +1,99 @@
+.loginImage {
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/abstract-matrix-cyber-environment-big-data.jpg");
+}
+
+.loginImage2 {
+    background-position: center 710px;
+    background-size: cover;
+    width: 100%;
+    height: 20vh;
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/abstract-matrix-cyber-environment-big-data.jpg");
+}
+
+.log {
+    width: 72%;
+    height: 550px;
+    margin-top: -550px;
+    margin-left: 14%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.log1 {
+    width: 49.5%;
+    height: 580px;
+    padding: 35px;
+    background-image: linear-gradient(135deg, #1C344C 0%, #282828 100%);
+    opacity: 0.8;
+    transition: 2s;
+}
+
+.line5 {
+    width: 100%;
+    background-color: #0DE8E4;
+    height: 1px;
+    margin: 26px 0;
+}
+
+.log-h2 {
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.log2 {
+    width: 49.5%;
+    height: 580px;
+    background-position: center;
+    background-size: cover;
+    transition: 2s;
+    background-image: url("https://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/woman-in-vr-headset.jpg");
+}
+
+.log21 {
+    width: 189px;
+    height: 23px;
+    margin: 535px 0 0 260px;
+    background-position: center;
+    background-size: cover;
+    z-index: 10;
+    background-image: url("http://kits.moxcreative.com/realmaya/wp-content/uploads/sites/12/2022/05/Realmaya_logo_white-1.png");
+}
+
+.inputLog {
+    padding: 10px 40px;
+    background-color: #ffffff;
+    font-size: 17px;
+    margin: 20px 0;
+    border-radius: 5px;
+    border: none;
+    color: #54595F;
+}
+
+.errorLog {
+    color: crimson;
+    margin-top: -16px;
+}
+
+.btn-11 {
+    padding: 11px 21px;
+    color: #0DE8E4;
+    font-size: 19px;
+    font-weight: 500;
+    border: 2px solid #0DE8E4;
+    background-color: transparent;
+    transition: .7s;
+    border-radius: 3px;
+    margin-top: 20px;
+}
+
+.btn-11:hover {
+    cursor: pointer;
+    background-color: #0DE8E4;
+    color: black;
+}
